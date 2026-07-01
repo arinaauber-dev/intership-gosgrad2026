@@ -3,7 +3,7 @@
 
 **Student:** Auber Arina  
 **Program:** Computer Science, IT-2406  
-**University:** Astana IT University (AITU)  
+**University:** Astana IT University 
 **Practice base:** Republican Center for State Urban Planning and Cadastre (Gosgradkadastr)
 
 
