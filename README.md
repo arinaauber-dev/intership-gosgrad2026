@@ -7,7 +7,7 @@
 **Practice base:** Republican Center for State Urban Planning and Cadastre (Gosgradkadastr)
 
 
-## About
+About
 
 This script was developed during the industrial practice at RGP «Gosgradkadastr» as a data-quality support tool for the engineering-communications inventory workflow.
 
