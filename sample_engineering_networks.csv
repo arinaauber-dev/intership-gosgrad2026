@@ -1,0 +1,26 @@
+segment_id,cadastral_number,network_type,material,diameter_mm,install_year,owner_organization,length_m,status
+SEG-0001,13-301-014-221,water_supply,steel,150,1998,Astana Su Arnasy,142.5,active
+SEG-0002,13-301-014-222,water_supply,polyethylene,110,2014,Astana Su Arnasy,88.0,active
+SEG-0003,13-301-014-223,sewerage,concrete,300,1985,Astana Su Arnasy,210.3,active
+SEG-0004,13-301-014-224,sewerage,,250,2001,Astana Su Arnasy,95.7,active
+SEG-0005,13-301-014-225,electric,cable_aluminium,,2009,Astana-Energy,310.0,active
+SEG-0006,13-301-014-226,gas,steel,108,1992,QazaqGaz Ondiru,175.2,active
+SEG-0007,13-301-014-227,gas,polyethylene,63,2018,QazaqGaz Ondiru,64.4,active
+SEG-0008,13-301-014-228,heat,steel,219,1979,Astana-Energy,403.1,decommissioned
+SEG-0009,13-301-014-229,water_supply,steel,150,2031,Astana Su Arnasy,120.0,active
+SEG-0010,13-301-014-230,water_supply,cast_iron,200,1965,Astana Su Arnasy,256.0,active
+SEG-0011,13-301-014-230,water_supply,cast_iron,200,1965,Astana Su Arnasy,256.0,active
+SEG-0012,13-301-014-231,sewerage,concrete,400,2006,Astana Su Arnasy,189.0,active
+SEG-0013,13301014232,electric,cable_copper,,2011,Astana-Energy,142.0,active
+SEG-0014,13-301-014-233,gas,steel,159,1988,QazaqGaz Ondiru,98.6,active
+SEG-0015,13-301-014-234,heat,steel,273,1999,Astana-Energy,310.5,active
+SEG-0016,13-301-014-235,water_supply,polyethylene,110,2016,,76.3,active
+SEG-0017,13-301-014-236,sewerage,concrete,300,1991,Astana Su Arnasy,164.8,active
+SEG-0018,13-301-014-237,electric,cable_aluminium,-1,2013,Astana-Energy,205.0,active
+SEG-0019,13-301-014-238,gas,polyethylene,63,2020,QazaqGaz Ondiru,55.0,active
+SEG-0020,13-301-014-239,heat,steel,219,1983,Astana-Energy,288.7,active
+SEG-0021,13-301-014-240,water_supply,steel,150,2002,Astana Su Arnasy,133.9,active
+SEG-0022,13-301-014-241,sewerage,concrete,350,1978,Astana Su Arnasy,221.4,decommissioned
+SEG-0023,13-301-014-242,electric,cable_copper,,2015,Astana-Energy,176.2,active
+SEG-0024,13-301-014-243,gas,steel,108,1996,QazaqGaz Ondiru,121.0,active
+SEG-0025,13-301-014-244,heat,steel,273,2004,Astana-Energy,340.0,active
