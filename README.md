@@ -1,5 +1,5 @@
 # Engineering Network Data Validation Script
-### Industrial Practice — RGP «Gosgradkadastr», Astana, June–July 2026
+### Industrial Practice - RGP «Gosgradkadastr», Astana, June–July 2026
 
 **Student:** Auber Arina  
 **Program:** Computer Science, IT-2406  
